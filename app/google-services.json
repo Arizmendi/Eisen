@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "141820649689",
+    "firebase_url": "https://eisen-ef902.firebaseio.com",
+    "project_id": "eisen-ef902",
+    "storage_bucket": "eisen-ef902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141820649689:android:7e8f9ac9baeb05de",
+        "android_client_info": {
+          "package_name": "com.E7monstersoftware.eisen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141820649689-6l9lfk3eej1gcilkkf6bm3mklm17h0v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9W3fKbswJtdEVZ8ACCiiFyxJELPX-mSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
